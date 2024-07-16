@@ -9,6 +9,7 @@
 
   ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
   ![UnityC#](https://img.shields.io/badge/UnityC%23-000000?style=for-the-badge&logo=unity&logoColor=white&color=000000)
+  ![Static Badge](https://img.shields.io/badge/vscode-33B5FF?style=for-the-badge)
 
 </div>
 
