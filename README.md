@@ -18,6 +18,7 @@
 
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&color=%2300599C)
   ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white&color=3776AB)
+  ![Django](https://img.shields.io/badge/django-ffffff?style=flat-square&logo=django&color=%23092E20)
 
 </div>
 
