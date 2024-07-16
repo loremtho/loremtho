@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=이상준의%20깃허브입니다.&fontSize=70&fontAlign=70&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=이상준의%20깃허브입니다.&fontSize=60&fontAlign=60&fontColor=33383d)
