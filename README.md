@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align = "center"> 🔧 Dev Tools 🔧 </h3>
+<h3 align = "center"> Dev Tools 🔧 </h3>
 <div align='center'>
 
   ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -12,8 +12,7 @@
 
 </div>
 
-<h3 align = "center"> ✨ Tech Stack ✨ </h3>
-
+<h3 align = "center"> Tech Stack ✨ </h3>
 <div align='center'>
 
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&color=%2300599C)
@@ -22,3 +21,9 @@
 
 </div>
 
+<h3 align = "center"> DataBase 💽  </h3>
+<div align = "center">
+  
+  ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+  
+</div>
