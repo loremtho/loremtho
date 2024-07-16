@@ -7,8 +7,8 @@
 <h3 align = "center"> 🔧 Dev Tools 🔧 </h3>
 <div align='center'>
 
-  ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-  ![UnityC#](https://img.shields.io/badge/UnityC%23-000000?style=flat-square&logo=unity&logoColor=white&color=000000)
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+  ![UnityC#](https://img.shields.io/badge/UnityC%23-000000?style=for-the-badge&logo=unity&logoColor=white&color=000000)
 
 </div>
 
